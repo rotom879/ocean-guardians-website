@@ -27,7 +27,7 @@ Ocean Guardians SA is a non-profit organization website focused on marine conser
 
 ---
 
-## Changelog (5 marks)
+## Changelog 
 
 | # | Date | Description of Change |
 |---|------|----------------------|
@@ -48,13 +48,13 @@ Ocean Guardians SA is a non-profit organization website focused on marine conser
 
 ---
 
-## References (5 marks)
+## References 
 
 ### Resources Used:
 - **Font Awesome Icons:** https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 - **Color Scheme:** Ocean Blue (#006994), Coral Orange (#FF6B4A)
 - **CSS Grid Guide:** https://css-tricks.com/snippets/css/complete-guide-grid/
-- **Flexbox Guide:** https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 - **Responsive Design:** https://www.w3schools.com/css/css_rwd_intro.asp
 - **CSS Reset:** https://www.w3schools.com/css/css_rwd_intro.asp
 
@@ -77,7 +77,7 @@ Ocean Guardians SA is a non-profit organization website focused on marine conser
 
 ## GitHub Repository
 
-**Repository Link:** https://github.com/YOUR_USERNAME/ocean-guardians-sa
+**Repository Link:** https://github.com/ocean-guardians-sa
 
 ---
 
@@ -85,7 +85,6 @@ Ocean Guardians SA is a non-profit organization website focused on marine conser
 
 I hereby declare that this is my own original work. All resources and references used have been acknowledged.
 
-**Signature:** _________________
 **Date:** May 29, 2026
 ### Screenshots
 <img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/a896b629-2c58-4030-80bf-ba3ff0f849d1" />
