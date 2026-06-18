@@ -1,0 +1,11 @@
+# Robots.txt for Ocean Guardians SA
+# Allows all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private pages (if any)
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://YOUR_USERNAME.github.io/ocean-guardians-sa/sitemap.xml
